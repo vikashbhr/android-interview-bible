@@ -5,7 +5,7 @@
 ### The Ultimate Android Interview Preparation Repository for Kotlin, Jetpack Compose, Coroutines, KMP, Ktor, Android System Design & FAANG Interviews.
 
 <p align="center">
-  <img src="assets/banner/github-banner.png" alt="Android Interview Bible Banner" width="100%" />
+  <img src="assets/banner/github-banner.jpg" alt="Android Interview Bible Banner" width="100%" />
 </p>
 
 <p align="center">
